@@ -19,6 +19,7 @@
 .myimg{
   position: relative;
   float: left;
-  left: 550px;
+  left: 450px;
   top: -150px;
+  width: 15%;
 }
