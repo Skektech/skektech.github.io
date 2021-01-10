@@ -1,0 +1,150 @@
+nav {
+    background-color: #77cbb9;
+    font-size: 1.4em;
+    line-height:3em;
+    margin-top: -35px;
+  }
+  nav a {
+    color: #506c64;
+    padding:10px;
+    font-size: 1.1em;
+    line-height: 3em;
+    font-family: "Annie Use Your Telescope", Times, serif;
+  }
+  div {
+    width: 48%; 
+  }
+  p {
+    font-family: "Annie Use Your Telescope", Times, serif;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    line-height: 1.6;
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+  a {
+    font-size: 1.1em;
+  }
+  a:hover { 
+    color: #cdd3d5; 
+  }
+  img {
+      max-width: 100%;
+  }  
+  h1,h2,h3,h4,h5,h6 {
+      color: #506c64;
+      font-family: "Baloo", Times, serif;
+      line-height: 200%;
+      margin: 5px;
+  }
+  nav ul {
+    display:flex;
+    justify-content:flex-end;
+    margin:0px;
+  }
+  nav li {
+    list-style-type:none;
+  }
+  .goldp {
+    color: #210c10
+  }
+  #top-row {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 1em;
+    background-color: #75b8c8;
+  }
+  #middle-row {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    background-color: #77cbb9;
+  }
+  #bottom-row{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #cdd3c5;
+  }
+  #content {
+    width: 960px;
+    margin: 0 auto;
+    
+  }
+  #banner {
+    width: 100%;
+    height: 236px;
+  }
+  .leftcol {
+    padding: 10px; 
+    flex: 1 0 15em;
+    margin: .5em;
+  }
+  .rightcol {
+    padding: 10px;
+    flex: 1 0 15em;
+    margin: .5em;
+  }
+  .fullwidth {
+    width: 100%; 
+  }
+  .logo-box{
+    width: 100%;
+    margin-top: 0px;
+  }
+  .logo-box img {
+    background-color: white;
+    position: relative;
+    border-style: solid;
+    border-color: #506c64;
+  }
+  .rivers-div{
+    padding: 10px;
+    flex: 1 0 15em;
+    margin: .5em;
+  
+  
+  }
+  #social-media{
+    display:flex;
+    justify-content: space-between;
+    
+  }
+  #copyright {
+    text-align: left;
+  }
+  #social-icons{
+    display:flex;
+    justify-content: flex-end;
+  }
+  #rivers-top {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items:center;
+    padding: 1em;
+    background-color: #75b8c8;
+  }
+  #rivers-bottom {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items:center;
+    padding: 1em;
+    background-color: #75b8c8;
+  }
+  #date-top {
+    display: flex;
+    flex-flow: column;
+    padding: 1em;
+    background-color: #75b8c8;
+  }
+  .dates-div {
+    width: 100%;
+  }
+  .img-dates{
+    max-width: 100%;
+    height: auto;
+  }
