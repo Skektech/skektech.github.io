@@ -7,11 +7,18 @@
     width:50%;
   }
 
-  .footer{
-    padding: 10px;
-    text-align: center;
-    background: #1abc9c;
-    color: white;
-    font-size: 15px;
-    width:50%;
-  }
+.footer{
+  padding: 10px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 15px;
+  width:50%;
+}
+
+.myimg{
+  position: relative;
+  float: left;
+  left: 550px;
+  top: -150px;
+}
